@@ -1,0 +1,15 @@
+{
+    "prefix": ".",
+    "ownerid": [],
+    "botName": "TRF ON TOP",
+    "botUsername": "TRF",
+    "botBio": "Official TRF Discord Bot | Multi-Bot Controller & Music System",
+    "botAvatarPath": "",
+    "botBannerPath": "",
+    "lavalink": {
+        "enabled": false,
+        "nodes": []
+    },
+    "tokens": [],
+    "trustedAdmins": []
+}
